@@ -1,5 +1,8 @@
 # GSTI
 
-alterações feitas no github
-Nova Funcionalidade
-Nova Função
+## Intrudução
+
+###Objetivos
+
+- Desenvolver uma aplicação
+- Testar na Cloud
