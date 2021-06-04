@@ -7,6 +7,12 @@
 **texto em negrito**
 *texto em italico*
 ~~texto riscado~~
+
+1. primeiro item
+2. segundo
+3. terceiro
+
+[link do google](https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwiexajVif_wAhVNpZUCHf5DCKwQPAgI)
 ## Intrudução
 
 ###Objetivos
